@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dimainc26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dimainc26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Dima Inc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dima inc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dima-inc-a97a16275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dima inc" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100093085862848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dima inc" height="30" width="40" /></a>
 <a href="https://instagram.com/dima.zanre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dima.zanre" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@dimainc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dimainc" height="30" width="40" /></a>
