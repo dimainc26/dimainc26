@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimainc26&label=Profile%20views&color=0e75b6&style=flat" alt="dimainc26" /> </p>
 
-- 🔭 I’m currently working on [40_JavaScripts_Ultimatum](https://github.com/dimainc26/40_JavaScripts_Ultimatum)
+- 🔭 I’m currently working on [TikDown - Flutter Application](https://github.com/dimainc26/tikidown)
 
 - 🌱 I’m currently learning **React, React Native, Laravel**
 
