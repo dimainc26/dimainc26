@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [TikDown - Flutter Application](https://github.com/dimainc26/tikidown)
 
-- 🌱 I’m currently learning **React, React Native, Laravel**
+- 🌱 I’m currently learning **NodeJS, PHP, Laravel**
 
 - 🤝 I’m looking for help with [dima_inc_-tikidown](https://github.com/dimainc26/dima_inc_-tikidown)
 
 - 👨‍💻 All of my projects are available at [https://dimazanre.com](https://dimazanre.com)
 
-- 💬 Ask me about **JavaScript, PHP, Flutter, NativeScript,ClickTeam Fusion**
+- 💬 Ask me about **JavaScript, PHP, Flutter, NativeScript, ClickTeam Fusion**
 
-- 📫 How to reach me **dimainc26@outlook.com - dimainc26@gmail.com**
+- 📫 How to reach me **dimainc26@outlook.com - dimazanre@gmail.com**
 
 - ⚡ Fun fact **I'm already ready to collaborate**
 
