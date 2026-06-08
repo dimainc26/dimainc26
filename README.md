@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dima
 
-**Full Stack Developer & GameMaker**<br>
+**Full Stack Developer & Appassionate GameMaker**<br>
 *From Burkina Faso*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dimainc26&label=Profile%20views&color=0e75b6&style=flat)](#)
@@ -9,10 +9,8 @@
 
 ### About Me
 
-- 🔭 Currently working on: [MLM Multi Level Marketing - Sontigui](https://github.com/dimainc26/sontigui_MLM)
-- 🌱 Learning: **C#**
+- 🔭 Currently working on: **Me**
 - 👨‍💻 Check out my work at: [dimazanre.dev](https://dimazanre.dev)
-- 💬 Ask me about: **JavaScript, PHP, Dart, ClickTeam Fusion**
 - 📫 Reach me at: **dimazanre@gmail.com**
 - ⚡ Fun fact: *I'm always ready to collaborate!*
 
@@ -39,9 +37,7 @@
 **Frontend:**
 - ![HTML5](https://img.shields.io/badge/HTML5-ED7D31?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend:**
@@ -63,7 +59,6 @@
 
 **Other Tools & Services:**
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WSL Ubuntu](https://img.shields.io/badge/WSL-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
